@@ -309,3 +309,9 @@ Type conversion se trata de uma conversão de tipo feita pelo dev, explicitament
 
     console.log(techs)
     ```
+
+##
+
+#### <a name="Referências"></a>Referências
+
+<a href="https://www.rocketseat.com.br/">Rocketseat</a>
