@@ -216,7 +216,7 @@ Uma callback function é uma função que está sendo passada para outra funçã
 
 Funções construtoras são utilizadas para criar novos objetos e geralmente tem a sua primeira letra maiúscula, todos com as mesmas características que são criadas na função, usando a palavra reservada this para se referir ao objeto sendo criado, por exemplo:
 
-    ```javascript
+```javascript
     function Person(name) {
         this.name = name
         this.walk() = function() {
@@ -225,7 +225,7 @@ Funções construtoras são utilizadas para criar novos objetos e geralmente tem
     }
     const mayk = new Person("Mayk")
     const joao = new Person("João")
-    ```
+```
 
 ##
 
@@ -309,42 +309,3 @@ Type conversion se trata de uma conversão de tipo feita pelo dev, explicitament
 
     console.log(techs)
     ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
